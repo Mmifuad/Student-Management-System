@@ -8,6 +8,7 @@
     <title>Welcome To Student Management System</title>
 
     <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
    
 
    
@@ -15,7 +16,7 @@
   <body>
   <div class = "container">
         <br>
-      <a class = "btn btn-primary pull-right" href="#">Login</a>
+      <a class="btn btn-primary pull-right" href="#">Login</a> 
         </br> 
     <h1 class="text-center">Welcome To Student Management System</h1>
   
